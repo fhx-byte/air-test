@@ -1,0 +1,13 @@
+.company {
+       
+        color: blue;
+        
+    }
+    #Arrivals{
+        color: azure;
+        background-color: blue;
+    }
+    #Departures{
+        color: azure;
+        background-color: red;
+    }
