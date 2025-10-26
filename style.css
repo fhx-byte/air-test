@@ -1,3 +1,7 @@
+body {
+       text-align: center;
+}
+
 .company {
        
         color: blue;
@@ -11,6 +15,3 @@
         color: azure;
         background-color: red;
     }
-body {
-       text-align: center;
-}
